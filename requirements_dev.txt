@@ -1,0 +1,13 @@
+ipywidgets
+notebook 
+ensure # arguments passed correct or not 
+py-youtube 
+
+
+# dev requirements
+pytest
+tox
+black  # formatting 
+flake8  # linting 
+mypy  # typerror 
+-e . 
